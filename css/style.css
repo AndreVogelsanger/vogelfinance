@@ -1031,6 +1031,7 @@ h6 {
   opacity: 0.5;
   transition: 0.3s;
   padding: 15px 0;
+  margin: auto;
 }
 
 #clients img:hover {
